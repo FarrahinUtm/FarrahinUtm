@@ -1,4 +1,6 @@
-### Hi there 👋
+###  Greetings!
+
+I am Farrahin and I am currently a 3rd year student in Data Engineering at University Teknologi Malaysia. 👋
 
 <!--
 **FarrahinUtm/FarrahinUtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-  📫 I'm currently staying in Johor, Malaysia
+-   ✉️ You can contact me at nurfarrahin642@gmail.com
+-  🤔 My groupmate and i are currently doing project on  [ Customer Segmentation tool](https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/proposal/DataSphere)
+-   ⚡ Currently learning MongoDB, Visual Studio Code, and Laravel
