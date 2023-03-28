@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 -   ✉️ You can contact me at nurfarrahin642@gmail.com
 -  🤔 My groupmate and i are currently doing project on  [ Customer Segmentation tool](https://github.com/drshahizan/special-topic-data-engineering/tree/main/project/proposal/DataSphere)
 -   ⚡ Currently learning MongoDB, Visual Studio Code, and Laravel
+
+### Socials
+
+<p align="left"> <a href=["https://www.github.com/adrinaasyiqin](https://github.com/FarrahinUtm)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
